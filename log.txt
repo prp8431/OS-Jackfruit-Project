@@ -1,0 +1,3 @@
+[STARTED] Container: c1 | PID: 4953
+[STARTED] Container: c1 | PID: 5776
+[STARTED] Container: c1 | PID: 5911
