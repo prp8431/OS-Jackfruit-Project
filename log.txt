@@ -1,3 +1,5 @@
-[STARTED] Container: c1 | PID: 4953
-[STARTED] Container: c1 | PID: 5776
-[STARTED] Container: c1 | PID: 5911
+[STOPPED] Container: c1 | PID: -1
+[STARTED] Container: c1 | PID: 1516
+[STARTED] Container: c2 | PID: 1519
+[STARTED] Container: c3 | PID: 1522
+[STOPPED] Container: c1 | PID: -1
