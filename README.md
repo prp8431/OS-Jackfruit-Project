@@ -1,5 +1,8 @@
 # OS Jackfruit - Container Runtime Simulation
 
+## Output Screenshot
+
+![Output](output.png)
 ## Description
 This project simulates a container runtime system inspired by OS Jackfruit.
 
