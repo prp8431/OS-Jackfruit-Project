@@ -13,3 +13,9 @@
 [STARTED] Container: c3 | PID: 8447
 [STOPPED] Container: c1 | PID: 8446
 [STOPPED] Container: c2 | PID: 8448
+[STARTED] Container: c1 | PID: 2282
+[STOPPED] Container: c1 | PID: 2282
+[STARTED] Container: c1 | PID: 2305
+[STOPPED] Container: c1 | PID: 2305
+[STARTED] Container: c2 | PID: 2405
+[STOPPED] Container: c2 | PID: 2405
