@@ -27,5 +27,3 @@ This project simulates a container runtime system using fork() and exec().
 
 ### Logs
 ![Logs](log_output.png)
-
-## How to Run
