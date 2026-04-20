@@ -1,10 +1,7 @@
 # OS Jackfruit - Container Runtime Simulation
 
-## Output Screenshot
-
-![Output](output.png)
 ## Description
-This project simulates a container runtime system inspired by OS Jackfruit.
+This project simulates a container runtime system using fork() and exec().
 
 ## Features
 - Start and stop containers
@@ -17,7 +14,18 @@ This project simulates a container runtime system inspired by OS Jackfruit.
 - exec()
 - kill()
 
+## Screenshots
+
+### Build
+![Build](build.png)
+
+### CPU Run
+![CPU](cpu_run.png)
+
+### IO Run
+![IO](io_run.png)
+
+### Logs
+![Logs](log_output.png)
+
 ## How to Run
-make
-./engine start c1 "sleep 20"
-./engine logs
