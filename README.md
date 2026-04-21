@@ -52,10 +52,10 @@ cat log.txt
 ![Build](build.png)
 
 ### CPU Run
-![CPU](cpu_run.png)
 ![CPU](cpu_run_updated.png)
+
 ### IO Run
-![IO](io_run.png)
 ![IO](io_run_updated.png)
+
 ### Logs
 ![Logs](log_output.png)
