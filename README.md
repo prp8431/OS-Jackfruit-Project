@@ -59,3 +59,18 @@ cat log.txt
 
 ### Logs
 ![Logs](log_output.png)
+
+## Additional Execution Outputs
+
+### Supervisor & Setup
+![Supervisor](supervisor.png)
+
+### CPU Intensive Output
+![CPU High](cpu_high.png)
+![CPU Low](cpu_low.png)
+
+### Kernel Monitoring (dmesg)
+![Monitor](monitor_dmesg.png)
+
+### System Monitoring
+![System Monitor](monitor.png)
